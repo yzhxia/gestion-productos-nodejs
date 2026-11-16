@@ -17,11 +17,9 @@ El proyecto usa Node.js, Express y MongoDB para el manejo de datos, además de a
 - Node.js
 - Express
 - MongoDB
-- Mongoose
 - JavaScript
-- JSON Web Tokens (JWT)
+- JWT
 - Jest
-- Supertest
 - HTML y CSS
 
 ## Instalación
